@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color :rgb(41, 43, 190) ;
+}
+.t1{
+    color: rgb(20, 194, 72);
+}
+.t2{
+    color: rgb(146, 48, 141);
+}
+.t3{
+    color: green;
+}
+.tx1{
+    color: purple;
+}
+div{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    padding: 40px;
+}
+.div1{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    padding: 40px;
+}
+header{
+    padding: 20px;
+    position: fixed;
+    color: white;
+    width: 100%;
+    background: rgba(255,255,255,0.1)
+}
+footer{
+    padding: 30px;
+    text-align: center;
+    font-size: 12px;
+}
